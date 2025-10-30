@@ -33,40 +33,39 @@ A full-stack Student Management System built with .NET 8 backend and React/Next.
 
 ### Admin Panel
 <p align="center">
-  <img src="./Screenshot/Admin/1.png" width="45%" />
-  <img src="./Screenshot/Admin/2.png" width="45%" />
-  <img src="./Screenshot/Admin/3.png" width="45%" />
-  <img src="./Screenshot/Admin/4.png" width="45%" />
-  <img src="./Screenshot/Admin/5.png" width="45%" />
-  <img src="./Screenshot/Admin/6.png" width="45%" />
-  <img src="./Screenshot/Admin/7.png" width="45%" />
-  <img src="./Screenshot/Admin/8.png" width="45%" />
-  <img src="./Screenshot/Admin/9.png" width="45%" />
-  <img src="./Screenshot/Admin/10.png" width="45%" />
+  <img src="./Screenshots/Admin/1.png" width="45%" />
+  <img src="./Screenshots/Admin/add classgroup.png" width="45%" />
+  <img src="./Screenshots/Admin/add course.png" width="45%" />
+  <img src="./Screenshots/Admin/add professor.png" width="45%" />
+  <img src="./Screenshots/Admin/classgroup.png" width="45%" />
+  <img src="./Screenshots/Admin/course.png" width="45%" />
+  <img src="./Screenshots/Admin/login.png" width="45%" />
+  <img src="./Screenshots/Admin/professor.png" width="45%" />
+  <img src="./Screenshots/Admin/student.png" width="45%" />
+  <img src="./Screenshots/Admin/subject.png" width="45%" />
 </p>
 
 ## Professor
 
 <p align="center">
-  <img src="./Screenshot/Professor/1.png" width="45%" />
-  <img src="./Screenshot/Professor/2.png" width="45%" />
-  <img src="./Screenshot/Professor/3.png" width="45%" />
-  <img src="./Screenshot/Professor/4.png" width="45%" />
-  <img src="./Screenshot/Professor/5.png" width="45%" />
-  <img src="./Screenshot/Professor/6.png" width="45%" />
-  <img src="./Screenshot/Professor/7.png" width="45%" />
-  <img src="./Screenshot/Professor/8.png" width="45%" />
-  <img src="./Screenshot/Professor/9.png" width="45%" />
-  <img src="./Screenshot/Professor/10.png" width="45%" />
+  <img src="./Screenshots/Professor/login.png" width="45%" />
+  <img src="./Screenshots/Professor/profile.png" width="45%" />
+  <img src="./Screenshots/Professor/attendence.png" width="45%" />
+  <img src="./Screenshots/Professor/marks.png" width="45%" />
+  <img src="./Screenshots/Professor/attendence 2.png" width="45%" />
+  <img src="./Screenshots/Professor/marks 2.png" width="45%" />
+  <img src="./Screenshots/Professor/profile 2.png" width="45%" />
+  <img src="./Screenshots/Professor/login 2.png" width="45%" />
+  <img src="./Screenshots/Professor/9.png" width="45%" />
 </p>
 
 ## Student
 
 <p align="center">
-  <img src="./Screenshot/Student/1.png" width="45%" />
-  <img src="./Screenshot/Student/2.png" width="45%" />
-  <img src="./Screenshot/Student/3.png" width="45%" />
-  <img src="./Screenshot/Student/4.png" width="45%" />
+  <img src="./Screenshots/Student/login.png" width="45%" />
+  <img src="./Screenshots/Student/profile.png" width="45%" />
+  <img src="./Screenshots/Student/attendence.png" width="45%" />
+  <img src="./Screenshots/Student/marks.png" width="45%" />
 </p>
 
 
@@ -331,6 +330,3 @@ The production build will be in the `Frontend/dist` directory.
 
 This project is for educational purposes.
 
-## Support
-
-For issues or questions, please create an issue in the repository.
