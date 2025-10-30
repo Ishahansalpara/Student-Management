@@ -31,24 +31,40 @@ A full-stack Student Management System built with .NET 8 backend and React/Next.
 
 ### 🔐 Admin Panel
 ![Admin Login](./screenshots/Admin/login.png)
+
 ![Add Class Group](./screenshots/Admin/add classgroup.png)
+
 ![Add Course](./screenshots/Admin/add course.png)
+
 ![Add Professor](./screenshots/Admin/add professor.png)
+
 ![Class Group](./screenshots/Admin/classgroup.png)
+
 ![Course](./screenshots/Admin/course.png)
+
 ![Professor](./screenshots/Admin/professor.png)
+
 ![Student](./screenshots/Admin/student.png)
+
 ![Subject](./screenshots/Admin/subject.png)
 
 ### 👨‍🏫 Professor
 ![Professor Login](./screenshots/Professor/login.png)
+
 ![Professor Profile](./screenshots/Professor/profile.png)
+
 ![Attendance](./screenshots/Professor/attendence.png)
+
 ![Marks](./screenshots/Professor/marks.png)
+
 ![Attendance 2](./screenshots/Professor/attendence 2.png)
+
 ![Marks 2](./screenshots/Professor/marks 2.png)
+
 ![Profile 2](./screenshots/Professor/profile 2.png)
+
 ![Login 2](./screenshots/Professor/login 2.png)
+
 ![9](./screenshots/Professor/9.png)
 
 ### 🎓 Student
