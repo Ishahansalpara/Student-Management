@@ -27,46 +27,35 @@ A full-stack Student Management System built with .NET 8 backend and React/Next.
 - Axios
 - Styled Components
 
-## Screenshots
+## 📸 Screenshots
 
-## 📸 Project Screenshots
+### 🔐 Admin Panel
+![Admin Login](./screenshots/Admin/login.png)
+![Add Class Group](./screenshots/Admin/add classgroup.png)
+![Add Course](./screenshots/Admin/add course.png)
+![Add Professor](./screenshots/Admin/add professor.png)
+![Class Group](./screenshots/Admin/classgroup.png)
+![Course](./screenshots/Admin/course.png)
+![Professor](./screenshots/Admin/professor.png)
+![Student](./screenshots/Admin/student.png)
+![Subject](./screenshots/Admin/subject.png)
 
-### Admin Panel
-<p align="center">
-  <img src="./Screenshots/Admin/1.png" width="45%" />
-  <img src="./Screenshots/Admin/add classgroup.png" width="45%" />
-  <img src="./Screenshots/Admin/add course.png" width="45%" />
-  <img src="./Screenshots/Admin/add professor.png" width="45%" />
-  <img src="./Screenshots/Admin/classgroup.png" width="45%" />
-  <img src="./Screenshots/Admin/course.png" width="45%" />
-  <img src="./Screenshots/Admin/login.png" width="45%" />
-  <img src="./Screenshots/Admin/professor.png" width="45%" />
-  <img src="./Screenshots/Admin/student.png" width="45%" />
-  <img src="./Screenshots/Admin/subject.png" width="45%" />
-</p>
+### 👨‍🏫 Professor
+![Professor Login](./screenshots/Professor/login.png)
+![Professor Profile](./screenshots/Professor/profile.png)
+![Attendance](./screenshots/Professor/attendence.png)
+![Marks](./screenshots/Professor/marks.png)
+![Attendance 2](./screenshots/Professor/attendence 2.png)
+![Marks 2](./screenshots/Professor/marks 2.png)
+![Profile 2](./screenshots/Professor/profile 2.png)
+![Login 2](./screenshots/Professor/login 2.png)
+![9](./screenshots/Professor/9.png)
 
-## Professor
-
-<p align="center">
-  <img src="./Screenshots/Professor/login.png" width="45%" />
-  <img src="./Screenshots/Professor/profile.png" width="45%" />
-  <img src="./Screenshots/Professor/attendence.png" width="45%" />
-  <img src="./Screenshots/Professor/marks.png" width="45%" />
-  <img src="./Screenshots/Professor/attendence 2.png" width="45%" />
-  <img src="./Screenshots/Professor/marks 2.png" width="45%" />
-  <img src="./Screenshots/Professor/profile 2.png" width="45%" />
-  <img src="./Screenshots/Professor/login 2.png" width="45%" />
-  <img src="./Screenshots/Professor/9.png" width="45%" />
-</p>
-
-## Student
-
-<p align="center">
-  <img src="./Screenshots/Student/login.png" width="45%" />
-  <img src="./Screenshots/Student/profile.png" width="45%" />
-  <img src="./Screenshots/Student/attendence.png" width="45%" />
-  <img src="./Screenshots/Student/marks.png" width="45%" />
-</p>
+### 🎓 Student
+![Student Login](./screenshots/Student/login.png)
+![Student Profile](./screenshots/Student/profile.png)
+![Attendance](./screenshots/Student/attendence.png)
+![Marks](./screenshots/Student/marks.png)
 
 
 ## Prerequisites
