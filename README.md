@@ -30,48 +30,51 @@ A full-stack Student Management System built with .NET 8 backend and React/Next.
 ## 📸 Screenshots
 
 ### 🔐 Admin Panel
-![Admin Login](./screenshots/Admin/login.png)
+![Admin Login](./screenshots/Admin/login.png)<br>
 
-![Add Class Group](./screenshots/Admin/add classgroup.png)
+![Add Class Group](./screenshots/Admin/add classgroup.png)<br>
 
-![Add Course](./screenshots/Admin/add course.png)
+![Add Course](./screenshots/Admin/add course.png)<br>
 
-![Add Professor](./screenshots/Admin/add professor.png)
+![Add Professor](./screenshots/Admin/add professor.png)<br>
 
-![Class Group](./screenshots/Admin/classgroup.png)
+![Class Group](./screenshots/Admin/classgroup.png)<br>
 
-![Course](./screenshots/Admin/course.png)
+![Course](./screenshots/Admin/course.png)<br>
 
-![Professor](./screenshots/Admin/professor.png)
+![Professor](./screenshots/Admin/professor.png)<br>
 
-![Student](./screenshots/Admin/student.png)
+![Student](./screenshots/Admin/student.png)<br>
 
-![Subject](./screenshots/Admin/subject.png)
+![Subject](./screenshots/Admin/subject.png)<br>
 
 ### 👨‍🏫 Professor
-![Professor Login](./screenshots/Professor/login.png)
+![Professor Login](./screenshots/Professor/login.png)<br>
 
-![Professor Profile](./screenshots/Professor/profile.png)
+![Professor Profile](./screenshots/Professor/profile.png)<br>
 
-![Attendance](./screenshots/Professor/attendence.png)
+![Attendance](./screenshots/Professor/attendence.png)<br>
 
-![Marks](./screenshots/Professor/marks.png)
+![Marks](./screenshots/Professor/marks.png)<br>
 
-![Attendance 2](./screenshots/Professor/attendence 2.png)
+![Attendance 2](./screenshots/Professor/attendence 2.png)<br>
 
-![Marks 2](./screenshots/Professor/marks 2.png)
+![Marks 2](./screenshots/Professor/marks 2.png)<br>
 
-![Profile 2](./screenshots/Professor/profile 2.png)
+![Profile 2](./screenshots/Professor/profile 2.png)<br>
 
-![Login 2](./screenshots/Professor/login 2.png)
+![Login 2](./screenshots/Professor/login 2.png)<br>
 
-![9](./screenshots/Professor/9.png)
+![9](./screenshots/Professor/9.png)<br>
 
 ### 🎓 Student
-![Student Login](./screenshots/Student/login.png)
-![Student Profile](./screenshots/Student/profile.png)
-![Attendance](./screenshots/Student/attendence.png)
-![Marks](./screenshots/Student/marks.png)
+![Student Login](./screenshots/Student/login.png)<br>
+
+![Student Profile](./screenshots/Student/profile.png)<br>
+
+![Attendance](./screenshots/Student/attendence.png)<br>
+
+![Marks](./screenshots/Student/marks.png)<br>
 
 
 ## Prerequisites
