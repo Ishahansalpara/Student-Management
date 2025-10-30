@@ -33,34 +33,34 @@ A full-stack Student Management System built with .NET 8 backend and React/Next.
 
 ### 🧑‍💼 Admin Panel
 <p align="center">
-  <img src="./Screenshot/Admin/1.png" width="45%" />
-  <img src="./Screenshot/Admin/2.png" width="45%" />
-  <img src="./Screenshot/Admin/3.png" width="45%" />
-  <img src="./Screenshot/Admin/4.png" width="45%" />
-  <img src="./Screenshot/Admin/5.png" width="45%" />
-  <img src="./Screenshot/Admin/6.png" width="45%" />
-  <img src="./Screenshot/Admin/7.png" width="45%" />
-  <img src="./Screenshot/Admin/8.png" width="45%" />
-  <img src="./Screenshot/Admin/9.png" width="45%" />
-  <img src="./Screenshot/Admin/10.png" width="45%" />
+  <img src="./screenshot/Admin/1.png" width="45%" />
+  <img src="./screenshot/Admin/2.png" width="45%" />
+  <img src="./screenshot/Admin/3.png" width="45%" />
+  <img src="./screenshot/Admin/4.png" width="45%" />
+  <img src="./screenshot/Admin/5.png" width="45%" />
+  <img src="./screenshot/Admin/6.png" width="45%" />
+  <img src="./screenshot/Admin/7.png" width="45%" />
+  <img src="./screenshot/Admin/8.png" width="45%" />
+  <img src="./screenshot/Admin/9.png" width="45%" />
+  <img src="./screenshot/Admin/10.png" width="45%" />
 </p>
 <p align="center">
-  <img src="./Screenshot/Professor/1.png" width="45%" />
-  <img src="./Screenshot/Professor/2.png" width="45%" />
-  <img src="./Screenshot/Professor/3.png" width="45%" />
-  <img src="./Screenshot/Professor/4.png" width="45%" />
-  <img src="./Screenshot/Professor/5.png" width="45%" />
-  <img src="./Screenshot/Professor/6.png" width="45%" />
-  <img src="./Screenshot/Professor/7.png" width="45%" />
-  <img src="./Screenshot/Professor/8.png" width="45%" />
-  <img src="./Screenshot/Professor/9.png" width="45%" />
-  <img src="./Screenshot/Professor/10.png" width="45%" />
+  <img src="./screenshot/Professor/1.png" width="45%" />
+  <img src="./screenshot/Professor/2.png" width="45%" />
+  <img src="./screenshot/Professor/3.png" width="45%" />
+  <img src="./screenshot/Professor/4.png" width="45%" />
+  <img src="./screenshot/Professor/5.png" width="45%" />
+  <img src="./screenshot/Professor/6.png" width="45%" />
+  <img src="./screenshot/Professor/7.png" width="45%" />
+  <img src="./screenshot/Professor/8.png" width="45%" />
+  <img src="./screenshot/Professor/9.png" width="45%" />
+  <img src="./screenshot/Professor/10.png" width="45%" />
 </p>
 <p align="center">
-  <img src="./Screenshot/Student/1.png" width="45%" />
-  <img src="./Screenshot/Student/2.png" width="45%" />
-  <img src="./Screenshot/Student/3.png" width="45%" />
-  <img src="./Screenshot/Student/4.png" width="45%" />
+  <img src="./screenshot/Student/1.png" width="45%" />
+  <img src="./screenshot/Student/2.png" width="45%" />
+  <img src="./screenshot/Student/3.png" width="45%" />
+  <img src="./screenshot/Student/4.png" width="45%" />
 </p>
 
 
