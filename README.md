@@ -30,51 +30,51 @@ A full-stack Student Management System built with .NET 8 backend and React/Next.
 ## 📸 Screenshots
 
 ### 🔐 Admin Panel
-![Admin Login](./screenshots/Admin/login.png)<br>
+<p><img src="./screenshots/Admin/login.png" alt="Admin Login"></p>
 
-![Add Class Group](./screenshots/Admin/add classgroup.png)<br>
+<p><img src="./screenshots/Admin/add classgroup.png" alt="Add Class Group"></p>
 
-![Add Course](./screenshots/Admin/add course.png)<br>
+<p><img src="./screenshots/Admin/add course.png" alt="Add Course"></p>
 
-![Add Professor](./screenshots/Admin/add professor.png)<br>
+<p><img src="./screenshots/Admin/add professor.png" alt="Add Professor"></p>
 
-![Class Group](./screenshots/Admin/classgroup.png)<br>
+<p><img src="./screenshots/Admin/classgroup.png" alt="Class Group"></p>
 
-![Course](./screenshots/Admin/course.png)<br>
+<p><img src="./screenshots/Admin/course.png" alt="Course"></p>
 
-![Professor](./screenshots/Admin/professor.png)<br>
+<p><img src="./screenshots/Admin/professor.png" alt="Professor"></p>
 
-![Student](./screenshots/Admin/student.png)<br>
+<p><img src="./screenshots/Admin/student.png" alt="Student"></p>
 
-![Subject](./screenshots/Admin/subject.png)<br>
+<p><img src="./screenshots/Admin/subject.png" alt="Subject"></p>
 
 ### 👨‍🏫 Professor
-![Professor Login](./screenshots/Professor/login.png)<br>
+<p><img src="./screenshots/Professor/login.png" alt="Professor Login"></p>
 
-![Professor Profile](./screenshots/Professor/profile.png)<br>
+<p><img src="./screenshots/Professor/profile.png" alt="Professor Profile"></p>
 
-![Attendance](./screenshots/Professor/attendence.png)<br>
+<p><img src="./screenshots/Professor/attendence.png" alt="Attendance"></p>
 
-![Marks](./screenshots/Professor/marks.png)<br>
+<p><img src="./screenshots/Professor/marks.png" alt="Marks"></p>
 
-![Attendance 2](./screenshots/Professor/attendence 2.png)<br>
+<p><img src="./screenshots/Professor/attendence 2.png" alt="Attendance 2"></p>
 
-![Marks 2](./screenshots/Professor/marks 2.png)<br>
+<p><img src="./screenshots/Professor/marks 2.png" alt="Marks 2"></p>
 
-![Profile 2](./screenshots/Professor/profile 2.png)<br>
+<p><img src="./screenshots/Professor/profile 2.png" alt="Profile 2"></p>
 
-![Login 2](./screenshots/Professor/login 2.png)<br>
+<p><img src="./screenshots/Professor/login 2.png" alt="Login 2"></p>
 
-![9](./screenshots/Professor/9.png)<br>
+<p><img src="./screenshots/Professor/9.png" alt="9"></p>
 
 ### 🎓 Student
-![Student Login](./screenshots/Student/login.png)<br>
+<p><img src="./screenshots/Student/login.png" alt="Student Login"></p>
 
-![Student Profile](./screenshots/Student/profile.png)<br>
+<p><img src="./screenshots/Student/profile.png" alt="Student Profile"></p>
 
-![Attendance](./screenshots/Student/attendence.png)<br>
+<p><img src="./screenshots/Student/attendence.png" alt="Attendance"></p>
 
-![Marks](./screenshots/Student/marks.png)<br>
+<p><img src="./screenshots/Student/marks.png" alt="Marks"></p>
 
 
 ## Prerequisites
