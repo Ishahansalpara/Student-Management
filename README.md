@@ -27,6 +27,43 @@ A full-stack Student Management System built with .NET 8 backend and React/Next.
 - Axios
 - Styled Components
 
+## Screenshots
+
+## 📸 Project Screenshots
+
+### 🧑‍💼 Admin Panel
+<p align="center">
+  <img src="./Screenshot/Admin/1.png" width="45%" />
+  <img src="./Screenshot/Admin/2.png" width="45%" />
+  <img src="./Screenshot/Admin/3.png" width="45%" />
+  <img src="./Screenshot/Admin/4.png" width="45%" />
+  <img src="./Screenshot/Admin/5.png" width="45%" />
+  <img src="./Screenshot/Admin/6.png" width="45%" />
+  <img src="./Screenshot/Admin/7.png" width="45%" />
+  <img src="./Screenshot/Admin/8.png" width="45%" />
+  <img src="./Screenshot/Admin/9.png" width="45%" />
+  <img src="./Screenshot/Admin/10.png" width="45%" />
+</p>
+<p align="center">
+  <img src="./Screenshot/Professor/1.png" width="45%" />
+  <img src="./Screenshot/Professor/2.png" width="45%" />
+  <img src="./Screenshot/Professor/3.png" width="45%" />
+  <img src="./Screenshot/Professor/4.png" width="45%" />
+  <img src="./Screenshot/Professor/5.png" width="45%" />
+  <img src="./Screenshot/Professor/6.png" width="45%" />
+  <img src="./Screenshot/Professor/7.png" width="45%" />
+  <img src="./Screenshot/Professor/8.png" width="45%" />
+  <img src="./Screenshot/Professor/9.png" width="45%" />
+  <img src="./Screenshot/Professor/10.png" width="45%" />
+</p>
+<p align="center">
+  <img src="./Screenshot/Student/1.png" width="45%" />
+  <img src="./Screenshot/Student/2.png" width="45%" />
+  <img src="./Screenshot/Student/3.png" width="45%" />
+  <img src="./Screenshot/Student/4.png" width="45%" />
+</p>
+
+
 ## Prerequisites
 
 - [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
@@ -281,6 +318,8 @@ npm run build
 ```
 
 The production build will be in the `Frontend/dist` directory.
+
+
 
 ## License
 
